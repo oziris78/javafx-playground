@@ -14,7 +14,7 @@ public class Main {
     public static final Resources res = new Resources();
 
     public static void main(String[] args) {
-        Application.launch(QuizAppApplication.class, args);
+        Application.launch(RTTApplication.class, args);
     }
 
 }
