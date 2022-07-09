@@ -66,15 +66,21 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/twistral" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/twistral/exercises" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\java\com\twistral\exercises" />
+      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\resources\com\twistral" />
       <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\java\com\twistral" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\java\com\twistral" />
+      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\resources\com\twistral\txtfiles" />
+      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\resources\com\twistral\images" />
+      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\resources\com\twistral\css" />
+      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\resources\com\twistral\fxml" />
+      <recent name="C:\Users\oguzh\Desktop\YivlemeVb\Java\pureJavaDev\projects - intellij\p_javafxPlayground\javafx-playground\src\main\resources\com\twistral\videos" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.twistral" />
@@ -87,6 +93,32 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.javafx-playground [run]">
+    <configuration name="JMetroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twistral.exercises.material.JMetroTest" />
+      <module name="javafx-playground.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twistral.exercises.material.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.twistral.exercises.multipleClassTest.MyMain2" />
+      <module name="javafx-playground.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.twistral.exercises.multipleClassTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="javafx-playground [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -132,6 +164,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.javafx-playground [run]" />
+        <item itemvalue="Application.MyMain2" />
+        <item itemvalue="Application.ButtonsResAndJMetroTest" />
         <item itemvalue="Gradle.javafx-playground [clean]" />
       </list>
     </recent_temporary>

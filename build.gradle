@@ -17,8 +17,8 @@ repositories {
 }
 
 javafx {
-    version = "15"
-    modules = [ 'javafx.controls', 'javafx.media', 'javafx.web', 'javafx.swing' ]
+    version = "17"
+    modules = [ 'javafx.controls' , 'javafx.fxml', 'javafx.media', 'javafx.web', 'javafx.swing' ]
 }
 
 dependencies {
@@ -26,6 +26,10 @@ dependencies {
     implementation ('com.github.oziris78:toria-fx:v0.3') {
         exclude group: 'org.openjfx'
     }
+
+    implementation 'org.jfxtras:jmetro:11.6.14'
+    implementation group: 'com.dustinredmond.fxtrayicon', name: 'FXTrayIcon', version: '3.0.1'
+    implementation 'io.github.palexdev:materialfx:11.12.0'
 
 }
 
