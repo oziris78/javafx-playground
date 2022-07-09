@@ -2,7 +2,11 @@
 
 # JavaFX Playground
 A collection of different JavaFX applications I created while learning JavaFX.
+ 
+This repository uses my javaFX extension called <a href="https://github.com/oziris78/toria-fx">Toria FX</a>
 
+
+<br>
 
 # Images
 
