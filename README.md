@@ -5,22 +5,22 @@ A collection of different JavaFX applications I created while learning JavaFX.
 
 # Images
 
-### Cookie Clicker
-![image couldn't be loaded](./repo-assets/img1.png)
+## Cookie Clicker
+<img src="./repo-assets/img1.png" alt="image couldn't be loaded" height="500">
 
-### Calculator
-![image couldn't be loaded](./repo-assets/img2.png)
+## Calculator
+<img src="./repo-assets/img2.png" alt="image couldn't be loaded" height="500">
 
-### Minesweeper
-![image couldn't be loaded](./repo-assets/img3.png)
+## Minesweeper
+<img src="./repo-assets/img3.png" alt="image couldn't be loaded" height="500">
 
-### Quiz App
-![image couldn't be loaded](./repo-assets/img4.png)
+## Quiz App
+<img src="./repo-assets/img4.png" alt="image couldn't be loaded" height="500">
 
-### Reaction Time Tester
-![image couldn't be loaded](./repo-assets/img5.png)
-![image couldn't be loaded](./repo-assets/img6.png)
-![image couldn't be loaded](./repo-assets/img7.png)
+## Reaction Time Tester
+<img src="./repo-assets/img5.png" alt="image couldn't be loaded" height="500">
+<img src="./repo-assets/img6.png" alt="image couldn't be loaded" height="500">
+<img src="./repo-assets/img7.png" alt="image couldn't be loaded" height="500">
 
 
 
